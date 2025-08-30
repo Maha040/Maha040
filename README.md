@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Maha040
+- 👋 Hi, I’m Maha
 - 👀 I’m interested in web development and app development
 - 🌱 I’m currently learning python
 
